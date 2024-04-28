@@ -43,6 +43,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Credits:
 
 Author: LocalHost.07
+
 Program: Python
+
 Tool is for Installing Rootless Os for Your Android Device Easily.
+
 Made With Love [❤️]
