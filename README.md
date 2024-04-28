@@ -24,7 +24,7 @@ To install LH-07 Os Installer, simply run the following command in your terminal
 * pip install colorama
 * python main.py
 
-#Usage:
+# Usage:
 
 Run the script and select the OS you want to install from the menu.
 Follow the prompts to complete the installation.
