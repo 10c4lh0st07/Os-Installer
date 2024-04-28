@@ -15,9 +15,14 @@ Animated installation process to keep you entertained
 
 To install LH-07 Os Installer, simply run the following command in your terminal:
 
-git clone https://github.com/YourGitHubUsername/LH-07-Os-Installer.git
-cd LH-07-Os-Installer
-python main.py
+* apt update -y && apt upgrade -y
+* pkg update -y && pkg upgrade -y
+* pkg install python -y
+* pkg install git 
+* git clone https://github.com/10c4lh0st07/Os-Installer
+* cd LH-07-Os-Installer
+* pip install colorama
+* python main.py
 
 #Usage:
 
